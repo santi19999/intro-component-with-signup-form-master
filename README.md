@@ -8,7 +8,7 @@ Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Form
   - [El Desafío](#El-Desafío)
   - [Screenshot](#Screenshot)
   - [Enlaces](#Enlaces)
-- [mi proceso](#mi-proceso)
+- [Mi proceso](#Mi-proceso)
   - [construido con](#Construido-con)
   - [¿Qué aprendí?](#Qué-aprendí)
   - [Desarrollo continuo](#Desarrollo continuado)
@@ -30,12 +30,13 @@ Los usuarios deben ser capaces de:
 ### Captura de pantalla
 
 ![](./screenshot/captura-desktop.png)
+
 ![](./screenshot/captura-movil.png)
 
 
 ### Enlaces
 
-- URL SOLUCION: [Agregar solución URL aquí] (https://your-solution-url.com)
+- URL REPO: [REPOSITORIO GITHUB] (https://github.com/santi19999/intro-component-with-signup-form-master/)
 - URL del sitio en vivo: [agregue URL del sitio en vivo aquí] (https://your-live-site-url.com)
 
 ## Mi proceso
@@ -49,6 +50,7 @@ Los usuarios deben ser capaces de:
 - JavaScript
 
 ### Que aprendí
+
 **JavaScript**
 
   - En este fragmento de código, logré validar los datos ingresados en tiempo real practicamente. Seguramente no sea la solución más eficiente o la mas óptima. Pero pude lograr hacer la validación correctamente.
@@ -103,7 +105,7 @@ Espero poder cumplir el objetivo e ir mejorando día a día. Ultimamente me voy 
 ### Recursos útiles
 
 - [Mozilla Developer] (https://www.developer.mozilla.org) - Esta documentación tanto de HTML, CSS y JavaScript me sirvió para aclarar muchas de mis dudas.
-- [Ejemplo de recursos 2] (https://www.css-tricks.com): este es una web increíble que me ayudó  a entender FlexBox. Lo recomiendo a cualquiera que siga aprendiendo este concepto.
+- [CSS Tricks] (https://www.css-tricks.com): este es una web increíble que me ayudó  a entender FlexBox. Lo recomiendo a cualquiera que siga aprendiendo este concepto.
 
 
 ## Autor
