@@ -9,11 +9,11 @@ Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Form
   - [Screenshot](#Screenshot)
   - [Enlaces](#Enlaces)
 - [mi proceso](#mi-proceso)
-  - [construido con](#construido-con)
+  - [construido con](#Construido-con)
   - [¿Qué aprendí?](#Qué-aprendí)
   - [Desarrollo continuo](#Desarrollo continuado)
   - [Recursos útiles](#Recursos-útiles)
-- [Autor](# Autor)
+- [Autor](#Autor)
 
 ## Descripción general
 
@@ -40,7 +40,7 @@ Los usuarios deben ser capaces de:
 
 ## Mi proceso
 
-### construido con
+### Construido con
 
 - Markup html5 semántico
 - Propiedades personalizadas CSS
