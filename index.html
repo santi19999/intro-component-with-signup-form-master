@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/style.css" />
+  <link rel="stylesheet" href="/styles/normalize.css" />
+  <title>Frontend Mentor | Intro component with sign up form</title>
+</head>
+
+<body>
+
+  <main class="container">
+    <div class="content">
+      <div class="content-body">
+        <h1 class="content-body-title">Learn to code by watching others</h1>
+        <p class="content-body-text">See how experienced developers solve
+          problems in real-time. Watching scripted tutorials is great, but
+          understanding how developers think is invaluable.</p>
+      </div>
+      <div class="group">
+        <div class="content-body-banner">
+          <p class="content-body-banner-text"><span>Try it free 7 days</span> then
+            $20/mo. thereafter</p>
+        </div>
+        <div class="content-form">
+
+          <form name="formUser" id="form-user">
+
+            <input type="text" class="input" name="first-name" id="first-name" placeholder="First Name"
+              autocomplete="off" autofocus>
+            <p class="message"></p>
+
+            <input type="text" class="input" name="last-name" id="last-name" placeholder="Last Name" autocomplete="off">
+            <p class="message"></p>
+
+            <input type="email" class="input" name="email" id="email" placeholder="Email Address" autocomplete="off">
+            <p class="message"></p>
+
+            <input type="password" class="input" name="password" id="password" placeholder="Password"
+              autocomplete="off">
+            <p class="message"></p>
+            <!--<button type="submit" class="btn">CLAIM YOUR FREE TRIAL</button>-->
+            <input type="submit" class="btn" value="CLAIM YOUR FREE TRIAL">
+          </form>
+          <p class="footer-form">By clicking the button, you are agreeing to our</p> <span class="text-red">Terms and
+            Services</span>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="/js/app.js"></script>
+</body>
+
+</html>
