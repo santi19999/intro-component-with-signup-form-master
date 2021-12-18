@@ -4,15 +4,15 @@ Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Form
 
 ## Tabla de contenido
 
-- [Descripción general](# Descripción-general)
-  - [El Desafío](# El-Desafío)
-  - [Screenshot](# Screenshot)
-  - [Enlaces](# Enlaces)
-- [mi proceso](# mi-proceso)
-  - [construido con](# incorporado)
-  - [¿Qué aprendí?](# Qué-aprendí)
-  - [Desarrollo continuo](# desarrollo continuado)
-  - [Recursos útiles](# Recursos-útiles)
+- [Descripción general](#Descripción-general)
+  - [El Desafío](#El-Desafío)
+  - [Screenshot](#Screenshot)
+  - [Enlaces](#Enlaces)
+- [mi proceso](#mi-proceso)
+  - [construido con](#construido-con)
+  - [¿Qué aprendí?](#Qué-aprendí)
+  - [Desarrollo continuo](#Desarrollo continuado)
+  - [Recursos útiles](#Recursos-útiles)
 - [Autor](# Autor)
 
 ## Descripción general
@@ -53,7 +53,8 @@ Los usuarios deben ser capaces de:
 
   - En este fragmento de código, logré validar los datos ingresados en tiempo real practicamente. Seguramente no sea la solución más eficiente o la mas óptima. Pero pude lograr hacer la validación correctamente.
 
-```firstName.addEventListener('change', e => {
+```
+    firstName.addEventListener('change', e => {
     if (firstName.value == "") {
         incorrecto(0, "First Name");
     } else if (!pattern.test(firstName.value)) {
