@@ -4,16 +4,16 @@ Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Form
 
 ## Tabla de contenido
 
-- [Descripción general] (# Descripción-general)
-  - [El Desafío] (# El-Desafío)
-  - [Screenshot] (# Screenshot)
-  - [Enlaces] (# Enlaces)
-- [mi proceso] (# mi-proceso)
-  - [construido con] (# incorporado)
-  - [¿Qué aprendí?] (# Qué-aprendí)
-  - [Desarrollo continuo] (# desarrollo continuado)
-  - [Recursos útiles] (# Recursos-útiles)
-- [Autor] (# Autor)
+- [Descripción general](# Descripción-general)
+  - [El Desafío](# El-Desafío)
+  - [Screenshot](# Screenshot)
+  - [Enlaces](# Enlaces)
+- [mi proceso](# mi-proceso)
+  - [construido con](# incorporado)
+  - [¿Qué aprendí?](# Qué-aprendí)
+  - [Desarrollo continuo](# desarrollo continuado)
+  - [Recursos útiles](# Recursos-útiles)
+- [Autor](# Autor)
 
 ## Descripción general
 
@@ -29,8 +29,8 @@ Los usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-! [] (./screenshot/captura-desktop.png)
-! [] (./screenshot/captura-movil.png)
+![](./screenshot/captura-desktop.png)
+![](./screenshot/captura-movil.png)
 
 
 ### Enlaces
@@ -53,8 +53,7 @@ Los usuarios deben ser capaces de:
 
   - En este fragmento de código, logré validar los datos ingresados en tiempo real practicamente. Seguramente no sea la solución más eficiente o la mas óptima. Pero pude lograr hacer la validación correctamente.
 
-``
-firstName.addEventListener('change', e => {
+```firstName.addEventListener('change', e => {
     if (firstName.value == "") {
         incorrecto(0, "First Name");
     } else if (!pattern.test(firstName.value)) {
@@ -91,7 +90,7 @@ password.addEventListener('change', e => {
         correcto(3);
     }
 })
-``
+```
 
 ### Desarrollo continuo
 
@@ -111,6 +110,3 @@ Espero poder cumplir el objetivo e ir mejorando día a día. Ultimamente me voy 
 - Sitio web - [Agregue su nombre aquí] (https://www.your-site.com)
 - Frontend Mentor - [@santi19999] (https://www.frontendmentor.io/profile/santi19999)
 - Instagram - [@santiago.herrera9] (https://www.instagram.com/santiago.herrera9)
-
-** Nota: elimine esta nota y agregue / elimine / edite líneas arriba según lo que le gustaría compartir. **
-
