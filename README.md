@@ -4,21 +4,20 @@ Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Form
 
 ## Tabla de contenido
 
-- [Descripción general] (# Descripción general)
-  - [El reto] (# el desafío)
-  - [Captura de pantalla] (# captura de pantalla)
+- [Descripción general] (# Descripción-general)
+  - [El Desafío] (# El-Desafío)
+  - [Screenshot] (# Screenshot)
   - [Enlaces] (# Enlaces)
 - [mi proceso] (# mi-proceso)
   - [construido con] (# incorporado)
-  - [lo que aprendí] (# Qué-i-aprendió)
+  - [¿Qué aprendí?] (# Qué-aprendí)
   - [Desarrollo continuo] (# desarrollo continuado)
-  - [Recursos útiles] (# recursos útiles)
+  - [Recursos útiles] (# Recursos-útiles)
 - [Autor] (# Autor)
-- [Agradecimientos] (# Agradecimientos)
 
-## descripción general
+## Descripción general
 
-### EL RETO
+### El Desafío
 
 Los usuarios deben ser capaces de:
 
@@ -39,7 +38,7 @@ Los usuarios deben ser capaces de:
 - URL SOLUCION: [Agregar solución URL aquí] (https://your-solution-url.com)
 - URL del sitio en vivo: [agregue URL del sitio en vivo aquí] (https://your-live-site-url.com)
 
-## mi proceso
+## Mi proceso
 
 ### construido con
 
@@ -54,7 +53,7 @@ Los usuarios deben ser capaces de:
 
   - En este fragmento de código, logré validar los datos ingresados en tiempo real practicamente. Seguramente no sea la solución más eficiente o la mas óptima. Pero pude lograr hacer la validación correctamente.
 
-`` `js
+``
 firstName.addEventListener('change', e => {
     if (firstName.value == "") {
         incorrecto(0, "First Name");
@@ -92,16 +91,16 @@ password.addEventListener('change', e => {
         correcto(3);
     }
 })
-`` ``
+``
 
-### desarrollo continuo
+### Desarrollo continuo
 
 En los próximos desafíos y con el paso de las prácticas, el objetivo es ir mejorando mi manera de programar. Tratar de resolver determinado problema o tarea en el menor tiempo posible y de manera óptima. Aplicando buenas prácticas y toda la teoría que hay detrás de HTML5,CSS y JavaScript. 
 
 Espero poder cumplir el objetivo e ir mejorando día a día. Ultimamente me voy sintiendo más cómodo y me van saliendo mejor las cosas. Se está volviendo mucho mas interesante el desarrollo FrontEnd para mi.
 
 
-### recursos útiles
+### Recursos útiles
 
 - [Mozilla Developer] (https://www.developer.mozilla.org) - Esta documentación tanto de HTML, CSS y JavaScript me sirvió para aclarar muchas de mis dudas.
 - [Ejemplo de recursos 2] (https://www.css-tricks.com): este es una web increíble que me ayudó  a entender FlexBox. Lo recomiendo a cualquiera que siga aprendiendo este concepto.
