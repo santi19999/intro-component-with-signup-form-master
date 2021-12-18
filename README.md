@@ -11,7 +11,7 @@ Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Form
 - [Mi proceso](#Mi-proceso)
   - [construido con](#Construido-con)
   - [¿Qué aprendí?](#Qué-aprendí)
-  - [Desarrollo continuo](#Desarrollo continuado)
+  - [Desarrollo continuo](#Desarrollo-continuo)
   - [Recursos útiles](#Recursos-útiles)
 - [Autor](#Autor)
 
@@ -31,12 +31,13 @@ Los usuarios deben ser capaces de:
 
 ![](./screenshot/captura-desktop.png)
 
+
 ![](./screenshot/captura-movil.png)
 
 
 ### Enlaces
 
-- URL REPO: [REPOSITORIO GITHUB] (https://github.com/santi19999/intro-component-with-signup-form-master/)
+- URL : [REPOSITORIO GITHUB] (https://github.com/santi19999/intro-component-with-signup-form-master/)
 - URL del sitio en vivo: [agregue URL del sitio en vivo aquí] (https://your-live-site-url.com)
 
 ## Mi proceso
